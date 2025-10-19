@@ -1,0 +1,1 @@
+# Repositório para entender como os dados do repositório são retornados pela API
